@@ -36,7 +36,7 @@ define ('TABLE_INTRASHIP_CONFIG','intraship_config');
 define ('LEERZEILE2','<tr><td>&nbsp;</td><td>&nbsp;</td></tr>');
 
 require('includes/application_top.php');
-require_once(DIR_WS_FUNCTIONS . 'export_functions.php');
+//require_once(DIR_WS_FUNCTIONS . 'export_functions.php');
 
 
 
